@@ -1,6 +1,5 @@
-# Your Project Name
-
-
+# TODO LIST
+## A Vue Project
 A Vue.js Todo List project is a common and beginner-friendly application that involves creating a simple task management system. In this project, users can add, delete, and mark tasks as completed. It's a practical way to learn the basics of Vue.js and understand how to manage state, handle user interactions, and manipulate the DOM.
 
 Here's a brief description of the key features typically found in a Vue.js Todo List project:
@@ -20,7 +19,8 @@ Here's a brief description of the key features typically found in a Vue.js Todo 
 - Styling:While not a core functionality, styling is often included to make the application visually appealing and user-friendly.
 Responsive Design (Optional):
 
-
+Screens:
+![Screenshot 2023-11-27 at 5 06 09 PM](https://github.com/Saty-am02/TodoList/assets/88832726/891213bb-c135-4803-bdca-2cfe2f747eb1)
 
 ## Prerequisites
 
