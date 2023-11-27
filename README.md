@@ -38,7 +38,7 @@ Follow these steps to get your project up and running.
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/your-project.git](https://github.com/Saty-am02/TodoList.git)
+    git clone https://github.com/Saty-am02/TodoList.git
     ```
 
 2. **Navigate to the project directory:**
